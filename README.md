@@ -1,2 +1,3 @@
 demo app
 foo
+bar
