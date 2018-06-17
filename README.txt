@@ -1,5 +1,5 @@
 Deployment Steps:
-
+prod
 - From ElasticBeanstalk console, use the "Create New Environment" wizard to create a "Web Server Environment" and select platform as "IIS".
 
 - Follow the wizard instructions on every step, in the "Additional Resources" step, select "Create an RDS DB Instance with this environment"
